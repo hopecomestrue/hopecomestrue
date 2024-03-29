@@ -1,9 +1,10 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi!%20Taeha's%20GitHub%20&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AboutMe </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
+        <li>개발자로 어떤 선물을 줄 수 있을지 고민하는 김태하입니다</li>
+        <li>오늘도 커밋 하나, 걸음 하나 차근차근 나아가고자 합니다.</li>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
